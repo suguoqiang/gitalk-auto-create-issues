@@ -1,0 +1,10 @@
+{
+  "name": "gitalk-auto-create-issues",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "fast-xml-parser": "^3.12.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
